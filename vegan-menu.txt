@@ -12,3 +12,8 @@ Primer Plato:
 - Quiche de Tofu
 - Fritata de verduras
 - Tagliatelle con queso de calabaza y espinacas
+
+Segundo Plato:
+- Arroz con verduras y tofu
+- Curry de calabaza
+- Macarrones con coliflor y salsa pesto
